@@ -10,9 +10,7 @@
   
 <div style="display: inline_block"><br>
  
-  <img align="center" alt="Ana-python" height="30" witdth="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" />       
-  <img align="center" alt="Ana-sql" height="30" witdth="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" />        
-  <img align="center" alt="Ana-vs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" />
+  
           
 ##
 
