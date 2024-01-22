@@ -1,6 +1,6 @@
 ## Olá, eu sou a Ana Flávia Covre 
 
-❤️ Estudando front-end e back-end
+❤️ Estudando Analise e Desenvolvimento de Sistemas e Ciencia de Dados com Python
 👧 Pronomes: ela/dela
 
 <div>
