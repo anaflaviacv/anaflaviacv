@@ -1,6 +1,6 @@
 ## Olá, eu sou a Ana Flávia Covre 
 
-❤️ Estudante de Banco de Dados e Analise/Ciencia de Dados com Python<br>
+❤️ Estudante de Banco de Dados e Analise/Ciência de Dados com Python<br>
 👧 Pronomes: ela/dela
 
 <div>
