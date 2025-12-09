@@ -11,8 +11,8 @@ dados para adquirir experiencia profissional.
 Sou apaixonada por tecnologia e gosto muito de aprender coisas novas!
 
 <div>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anaflaviacv&show_icons=true&theme=tokyonight"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anaflaviacv&layout=compact&theme=tokyonight"/> 
+    <img height="180em" src="[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anaflaviacv&show_icons=true&theme=dracula&include_all_commits=true)"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anaflaviacv&layout=compact&theme=radical"/> 
 </div>
 
  ### 🤖 Linguagens e Tecnologias 
