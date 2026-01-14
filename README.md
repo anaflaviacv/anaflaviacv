@@ -11,10 +11,15 @@ dados para adquirir experiencia profissional.
 Sou apaixonada por tecnologia e gosto muito de aprender coisas novas!
 
 
-  <img width="420"
-       src="https://github-readme-stats.vercel.app/api?username=anaflaviacv&show_icons=true&theme=radical&cache_seconds=86400"/>
-  <img width="350"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=anaflaviacv&layout=compact&theme=dracula&cache_seconds=86400"/>
+### 📊 Minhas Estatísticas GitHub
+
+<p align="left">
+  <img width="460"
+       src="https://awesome-github-stats.azurewebsites.net/user-stats/anaflaviacv?theme=tokyonight" />
+  <img width="440"
+       src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=anaflaviacv&theme=tokyonight&layout=compact" />
+</p>
+
 
     
  ### 🤖 Linguagens e Tecnologias 
