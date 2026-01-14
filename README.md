@@ -13,13 +13,12 @@ Sou apaixonada por tecnologia e gosto muito de aprender coisas novas!
 
 ### 📊 Minhas Estatísticas GitHub
 
-<p align="left">
-  <img width="460"
-       src="https://awesome-github-stats.azurewebsites.net/user-stats/anaflaviacv?theme=tokyonight" />
-  <img width="440"
-       src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=anaflaviacv&theme=tokyonight&layout=compact" />
-</p>
-
+<div>
+  <img height="180em"
+       src="https://github-readme-stats-fast.vercel.app/api?username=anaflaviacv&show_icons=true&theme=tokyonight" />
+  <img height="180em"
+       src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=anaflaviacv&layout=compact&theme=tokyonight" />
+</div>
 
     
  ### 🤖 Linguagens e Tecnologias 
@@ -49,6 +48,3 @@ Sou apaixonada por tecnologia e gosto muito de aprender coisas novas!
  <a href="anaflaviacovre@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  <a href="https://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
 </div>
-
-##
-
