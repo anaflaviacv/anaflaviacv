@@ -1,8 +1,8 @@
 ## 👩🏻‍💻 Olá, eu sou a Ana Flávia Covre 
 
-**`Front End Developer and UIxUX designer`**<br>
+**`Front End Developer`**<br>
 
-Me chamo Ana Flávia Covre, tenho 20 anos e sou natural de São Paulo - SP.
+Me chamo Ana Flávia Covre, tenho 21 anos e sou natural de São Paulo - SP.
 Concluí o meu ensino médio na Etec Abdias do Nascimento no curso técnico
 em análise e desenvolvimento de sistemas. Atualmente estou cursando o ensino
 superior na Impacta Tecnologia no curso tecnólogo em Banco de Dados e fiz um
@@ -10,11 +10,12 @@ estágio na empresa multinacional de papel e celulose Suzano S/A na área de
 dados para adquirir experiencia profissional.
 Sou apaixonada por tecnologia e gosto muito de aprender coisas novas!
 
-<div>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anaflaviacv&show_icons=true&theme=dracula&include_all_commits=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anaflaviacv&layout=compact&theme=dracula"/> 
-</div>
-   
+
+  <img width="420"
+       src="https://github-readme-stats.vercel.app/api?username=anaflaviacv&show_icons=true&theme=radical&cache_seconds=86400"/>
+  <img width="350"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=anaflaviacv&layout=compact&theme=dracula&cache_seconds=86400"/>
+
     
  ### 🤖 Linguagens e Tecnologias 
 <div style="display: inline_block"><br>
