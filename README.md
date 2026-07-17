@@ -1,6 +1,6 @@
 ## 👩🏻‍💻 Olá, eu sou a Ana Flávia Covre 
 
-**`Front End Developer`**<br>
+**`FullStack Developer`**<br>
 
 Me chamo Ana Flávia Covre, tenho 21 anos e sou natural de São Paulo - SP.
 Concluí o meu ensino médio na Etec Abdias do Nascimento no curso técnico
@@ -33,7 +33,14 @@ dados para adquirir experiencia profissional.
   <img align="center" alt="Ana-react" height="30" whidth="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg"/>
   <img align="center" alt="Ana-typescript" height="30" whidth="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
   <img align="center" alt="Ana-next" height="30" whidth="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
+  <img align="center" alt="Ana-java" height="30" whidth="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
+<img align="center" alt="Ana-spring" height="30" whidth="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" />
+<img align="center" alt="Ana-googlecloud" height="30" whidth="40" 
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" />
+ <img align="center" alt="Ana-aws" height="30" whidth="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
           
+          
+           
 
 </div>  
 
