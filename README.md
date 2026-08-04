@@ -4,10 +4,10 @@
 
 Me chamo Ana Flávia Covre, tenho 21 anos e sou natural de São Paulo - SP.
 Concluí o meu ensino médio na Etec Abdias do Nascimento no curso técnico
-em análise e desenvolvimento de sistemas. Atualmente estou cursando o ensino
+em análise e desenvolvimento de sistemas. Atualmente concluí o ensino
 superior na Impacta Tecnologia no curso tecnólogo em Banco de Dados e fiz um
-estágio na empresa multinacional de papel e celulose Suzano S/A na área de
-dados para adquirir experiencia profissional.
+estágio na empresa multinacional de papel e celulose Suzano S/A
+em análise de dados para adquirir experiencia profissional.
 
 
 ### 📊 Minhas Estatísticas GitHub
